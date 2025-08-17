@@ -30,4 +30,4 @@ elif option == '4':
     print(f'{round(temp)}K = {round(result)}C°')
 
 else:
-    print('Opção Inválida!') #Se nenhum número foi válido (1-4)
+    print('Opção Inválida!') #Se nenhum número for válido (1-4)
