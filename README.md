@@ -11,7 +11,6 @@ Funcionalidades
 
 
 ⦁ Celsius <-> Fahrenheit
-
 ⦁ Celsius <-> Kelvin
 
 
@@ -25,15 +24,15 @@ Funcionalidades
 ### Como usar
 
 
-* Executar o script - conversor temperaturas.py - no terminal.
-* Digitar um número das opções (nota-se que é possível escolher um número qualquer, porém o código não funcionara!)
-* Digitar a temperatura desejada.
-* O resultado será exibido de forma convertida.
+⦁ Executar o script - conversor temperaturas.py - no terminal.
+⦁ Digitar um número das opções (nota-se que é possível escolher um número qualquer, porém o código não funcionara!)
+⦁ Digitar a temperatura desejada.
+⦁ O resultado será exibido de forma convertida.
 
 
 ### O que aprendi?
 
 
-* Manipulação de entrada e saída com float, input() e print()
-* Estruturas condicionais com if/elif/else
-* Conversões matemáticas sobre escalas de temperaturas
+⦁ Manipulação de entrada e saída com float, input() e print()
+⦁ Estruturas condicionais com if/elif/else
+⦁ Conversões matemáticas sobre escalas de temperaturas
