@@ -7,9 +7,7 @@ Esse projeto foi desenvolvido como parte da disciplina de Imagem profissional. C
 conceitos básicos de lógica de programação e interação com o usuário a partir de um terminal.
 
 
-
 Funcionalidades
-
 
 
 ⦁ Celsius <-> Fahrenheit
@@ -17,18 +15,14 @@ Funcionalidades
 ⦁ Celsius <-> Kelvin
 
 
-
 ### Tecnologias usadas
 
 
-
-* Apenas Python 3
-* Terminal
-
+⦁ Apenas Python 3
+⦁ Terminal
 
 
 ### Como usar
-
 
 
 * Executar o script - conversor temperaturas.py - no terminal.
@@ -37,9 +31,7 @@ Funcionalidades
 * O resultado será exibido de forma convertida.
 
 
-
 ### O que aprendi?
-
 
 
 * Manipulação de entrada e saída com float, input() e print()
